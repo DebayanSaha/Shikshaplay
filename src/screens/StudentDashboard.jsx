@@ -1,6 +1,12 @@
 import React, { useState, useEffect } from "react";
 import { useTranslation } from "react-i18next";
 import { useNavigate } from "react-router-dom";
+import PhysicsImg from "../assets/Physics.png";
+import ChemistryImg from "../assets/Chemistry.png";
+import MathImg from "../assets/Math.png";
+import BiologyImg from "../assets/Biology.png";
+import ComputerImg from "../assets/Computer.png";
+import LogoImg from "../assets/logo.png";
 
 const logoutStudent = async () => {
   localStorage.removeItem("studentToken");
@@ -58,7 +64,7 @@ const StudentDashboard = () => {
   const learningSubjects = [
     {
       nameKey: "subjects.physics.title",
-      emoji: "/assets/Physics.png",
+      emoji: PhysicsImg,
       bgColor: "#EEF2FF",
       iconBg: "#6366F1",
       textColor: "#312E81",
@@ -67,7 +73,7 @@ const StudentDashboard = () => {
     },
     {
       nameKey: "subjects.chemistry.title",
-      emoji: "/assets/Chemistry.png",
+      emoji: ChemistryImg,
       bgColor: "#FFF7ED",
       iconBg: "#F97316",
       textColor: "#7C2D12",
@@ -76,7 +82,7 @@ const StudentDashboard = () => {
     },
     {
       nameKey: "subjects.math.title",
-      emoji: "/assets/Math.png",
+      emoji: MathImg,
       bgColor: "#ECFEFF",
       iconBg: "#06B6D4",
       textColor: "#164E63",
@@ -85,7 +91,7 @@ const StudentDashboard = () => {
     },
     {
       nameKey: "subjects.biology.title",
-      emoji: "/assets/Biology.png",
+      emoji: BiologyImg,
       bgColor: "#F0FDF4",
       iconBg: "#10B981",
       textColor: "#14532D",
@@ -94,7 +100,7 @@ const StudentDashboard = () => {
     },
     {
       nameKey: "subjects.computer.title",
-      emoji: "/assets/Computer.png",
+      emoji: ComputerImg,
       bgColor: "#FDF4FF",
       iconBg: "#A855F7",
       textColor: "#581C87",
@@ -211,7 +217,7 @@ const StudentDashboard = () => {
         >
           <div className="flex items-center gap-3">
             <div className="w-11 h-11 rounded-full flex justify-center items-center bg-[#F1F5F9]">
-              <img src="/assets/logo.png" alt="Logo" className="w-11 h-11" />
+              <img src={LogoImg} alt="Logo" className="w-11 h-11" />
             </div>
             <div>
               <h1 className="text-xl font-extrabold text-[#1E293B]">{t("choose_role.title")}</h1>
