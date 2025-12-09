@@ -19,4 +19,4 @@ const sameOriginBase =
     : "http://localhost:5000/api";
 
 export const BASE_URL =
-  envBase || (isDev ? "http://localhost:5000/api" : sameOriginBase);
+  envBase || (isDev ? "http://localhost:5000/api" : "https://sihbackend-ihbz.onrender.com/api");
