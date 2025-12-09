@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { useNavigate } from "react-router-dom";
 import { logoutTeacher, getCurrentTeacher } from "../api/api";
+import LogoImg from "../assets/logo.png";
 
 const DashboardScreen = () => {
   const { t, i18n } = useTranslation();

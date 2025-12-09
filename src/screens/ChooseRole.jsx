@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
 import { useNavigate } from "react-router-dom";
+import LogoImg from "../assets/logo.png";
 
 const pulseAnimation = {
   animate: {
@@ -48,7 +49,7 @@ export default function ChooseRole() {
 
         {/* LOGO */}
         <div className="mb-6">
-          <img src="/assets/logo.png" alt="App Logo" className="w-32 h-32 object-contain" />
+          <img src={LogoImg} alt="App Logo" className="w-32 h-32 object-contain" />
         </div>
 
         {/* Title and subtitle */}
