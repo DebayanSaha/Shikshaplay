@@ -2,7 +2,6 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import { changeLanguage } from "../i18n/i18n";
 import { useNavigate } from "react-router-dom";
-import logo from "../assets/logo.png";
 
 const LanguageSelectionScreen = () => {
   const { t } = useTranslation();
@@ -26,7 +25,7 @@ const LanguageSelectionScreen = () => {
         
         {/* Logo */}
         <div className="mb-8">
-          <img src={logo} className="w-32 h-32 object-contain" />
+          <img src="/assets/logo.png" className="w-32 h-32 object-contain" />
         </div>
 
         {/* Title */}
