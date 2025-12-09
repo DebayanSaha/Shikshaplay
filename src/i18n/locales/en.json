@@ -1,0 +1,1565 @@
+{
+  "language_selection": {
+    "title": "Select Language",
+    "subtitle": "Choose your preferred language"
+  },
+  "choose_role": {
+    "title": "ShikshaPlay",
+    "subtitle": "Choose Your Adventure",
+    "student": "Student",
+    "teacher": "Teacher"
+  },
+  "login": {
+    "title": "Login",
+    "welcome_back": "Welcome back to Quest Learning!",
+    "email": "Email",
+    "password": "Password",
+    "start_quest": "Start Your Quest",
+    "create_account": "Create New Account",
+    "back_to_role": "← Back to role selection"
+  },
+  "signup": {
+    "title": "Join as",
+    "subtitle": "Start your learning adventure today!",
+    "full_name": "Full Name",
+    "email": "Email",
+    "phone_number": "Phone Number",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "address": "Address",
+    "age": "Age",
+    "class": "Class (e.g., 10th, 12th)",
+    "hobbies": "Hobbies",
+    "school_name": "School Name",
+    "select_board": "Select Board",
+    "cbse": "CBSE",
+    "icse": "ICSE",
+    "state_board": "State Board",
+    "ib": "IB",
+    "other": "Other",
+    "teaching_domain": "Teaching Domain (e.g., Mathematics, Science)",
+    "qualification": "Qualification (e.g., B.Ed, M.Ed)",
+    "education_background": "Education Background (e.g., M.Sc in Physics)",
+    "begin_journey": "Begin Your Journey",
+    "already_account": "Already have an account? Login",
+    "back_to_role": "← Back to role selection"
+  },
+  "student_dashboard": {
+    "welcome": "Hello!",
+    "ready_level_up": "Ready to level up today?",
+    "level_explorer": "Level 12 Explorer",
+    "ranking": "Ranking",
+    "coins": "Coins",
+    "accuracy": "Accuracy",
+    "lets_play": "Let's Play 🎮",
+    "see_all": "See All →",
+    "achievements": "Achievements",
+    "virtual_labs": "Virtual Labs",
+    "daily_challenge": "Daily Challenge",
+    "hours_left": "18h left",
+    "challenge_desc": "Complete 3 lessons to maintain your streak and earn 500 bonus coins! 🎁",
+    "lesson": "Lesson",
+    "continue_challenge": "Continue Challenge",
+    "lab_master": "Lab Master",
+    "lab_master_desc": "Complete 10 virtual labs",
+    "streak_keeper": "Streak Keeper",
+    "streak_keeper_desc": "7-day learning streak",
+    "peer_helper": "Peer Helper",
+    "peer_helper_desc": "Help 5 classmates",
+    "quick_learner": "Quick Learner",
+    "quick_learner_desc": "Complete lesson under 10 mins",
+    "coding_arena": "Coding Arena",
+    "coding_arena_desc": "Code and debug programs in real-time.",
+    "circuit_builder": "Circuit Builder",
+    "circuit_builder_desc": "Build and test electrical circuits",
+    "virtual_neuron": "Virtual Neuron",
+    "virtual_neuron_desc": "A Virtual 3D figure of a neuron",
+    "joined": "joined",
+    "teacher_interaction": "Connect with Teachers",
+    "view_meetings": "View Scheduled Meetings",
+    "meetings_desc": "Check your meetings with teachers and request new ones",
+    "view_meetings_btn": "View Meetings",
+    "view_notes": "Study Materials",
+    "notes_desc": "Access notes and study materials shared by teachers",
+    "view_notes_btn": "View Notes",
+    "view_exams": "Exams & Tests",
+    "exams_desc": "View and take exams assigned by your teachers",
+    "view_exams_btn": "View Exams",
+    "meetings": "Meetings",
+    "teachers": "Teachers",
+    "no_meetings": "No meetings scheduled yet",
+    "no_meetings_desc": "Your teachers will schedule meetings here",
+    "no_teachers": "No teachers found",
+    "no_teachers_desc": "Teachers from your school will appear here",
+    "notes_coming_soon": "Notes Coming Soon",
+    "notes_coming_soon_desc": "Study materials shared by teachers will appear here",
+    "exams_coming_soon": "Exams Coming Soon",
+    "exams_coming_soon_desc": "Exams assigned by teachers will appear here"
+  },
+  "teacher_login": {
+    "title": "Teacher Login",
+    "welcome_back": "Welcome back!",
+    "teacher_id": "Teacher ID",
+    "password": "Password",
+    "school_name": "School Name",
+    "enter_teacher_id": "Enter your teacher ID",
+    "enter_password": "Enter your password",
+    "enter_school_name": "Enter school name",
+    "login": "Login",
+    "no_account": "Don't have an account? Register",
+    "invalid_credentials": "Invalid credentials. Please try again."
+  },
+  "teacher_register": {
+    "title": "Teacher Registration",
+    "subtitle": "Create your account",
+    "teacher_id": "Teacher ID *",
+    "full_name": "Full Name *",
+    "email": "Email *",
+    "phone": "Phone",
+    "school_name": "School Name *",
+    "password": "Password *",
+    "confirm_password": "Confirm Password *",
+    "enter_teacher_id": "Enter unique teacher ID",
+    "enter_full_name": "Enter your full name",
+    "enter_email": "Enter your email",
+    "enter_phone": "Enter your phone number",
+    "enter_school_name": "Enter school name",
+    "enter_password": "Enter password (min 6 characters)",
+    "confirm_password_placeholder": "Confirm your password",
+    "register": "Register",
+    "already_account": "Already have an account? Login",
+    "password_min_length": "Password must be at least 6 characters",
+    "passwords_not_match": "Passwords do not match",
+    "enter_full_name": "Please enter your name",
+    "enter_email": "Please enter email",
+    "valid_email": "Please enter a valid email",
+    "registration_success": "Registration successful! Please login.",
+    "registration_failed": "Registration Failed",
+    "registration_failed_message": "Registration failed. Please try again."
+  },
+  "teacher_dashboard": {
+    "welcome": "Welcome,",
+    "teacher": "Teacher",
+    "logout": "Logout",
+    "students": "Students",
+    "view_student_list": "View student list",
+    "notes": "Notes",
+    "manage_study_notes": "Manage study notes",
+    "meetings": "Meetings",
+    "schedule_meetings": "Schedule meetings",
+    "exams": "Exams",
+    "create_manage_exams": "Create & manage exams"
+  },
+  "students_screen": {
+    "title": "Students",
+    "back": "← Back",
+    "loading": "Loading students...",
+    "no_students": "No students found",
+    "refresh": "Refresh",
+    "student_details": "Student Details",
+    "name": "Name",
+    "email": "Email",
+    "class": "Class",
+    "phone": "Phone",
+    "unknown": "Unknown",
+    "no_email": "No email",
+    "na": "N/A",
+    "ok": "OK",
+    "error": "Error",
+    "failed_load": "Failed to load students",
+    "failed_load_details": "Failed to load student details"
+  },
+  "notes_screen": {
+    "title": "Notes",
+    "back": "← Back",
+    "add": "+ Add",
+    "loading": "Loading notes...",
+    "no_notes": "No notes found",
+    "upload_first": "Upload Your First Note",
+    "delete_note": "Delete Note",
+    "delete_confirm": "Are you sure you want to delete",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "success": "Success",
+    "note_deleted": "Note deleted successfully",
+    "failed_delete": "Failed to delete note",
+    "untitled": "Untitled",
+    "no_description": "No description",
+    "unknown_date": "Unknown date",
+    "error": "Error",
+    "failed_load": "Failed to load notes"
+  },
+  "upload_note": {
+    "title": "Upload Note",
+    "back": "← Back",
+    "title_label": "Title *",
+    "description_label": "Description",
+    "file_path_label": "File Path *",
+    "enter_title": "Enter note title",
+    "enter_description": "Enter note description",
+    "enter_file_path": "Enter file path (e.g., /storage/emulated/0/Download/file.pdf)",
+    "need_help": "📁 Need help finding file path?",
+    "supported": "Supported: PDF, DOC, DOCX files",
+    "upload_note": "Upload Note",
+    "file_selection": "File Selection",
+    "file_path_help": "Please enter the file path manually or use a file manager app to copy the file path.\n\nExample: /storage/emulated/0/Download/document.pdf",
+    "ok": "OK",
+    "error": "Error",
+    "enter_title_error": "Please enter a title",
+    "enter_file_path_error": "Please enter a file path",
+    "success": "Success",
+    "upload_success": "Note uploaded successfully!",
+    "upload_failed": "Upload Failed",
+    "upload_failed_message": "Failed to upload note. Please check the file path."
+  },
+  "meetings_screen": {
+    "title": "Meetings",
+    "back": "← Back",
+    "add": "+ Add",
+    "loading": "Loading meetings...",
+    "no_meetings": "No meetings scheduled",
+    "schedule_first": "Schedule Your First Meeting",
+    "edit_meeting": "Edit Meeting",
+    "schedule_meeting": "Schedule Meeting",
+    "title_placeholder": "Title *",
+    "description_placeholder": "Description",
+    "date_placeholder": "Date (YYYY-MM-DD) *",
+    "time_placeholder": "Time (HH:MM) *",
+    "student_id_placeholder": "Student ID (optional)",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "delete_meeting": "Delete Meeting",
+    "delete_confirm": "Are you sure you want to delete",
+    "untitled": "Untitled",
+    "no_description": "No description",
+    "no_date": "No date",
+    "no_time": "No time",
+    "error": "Error",
+    "enter_title": "Please enter a title",
+    "select_date": "Please select a date",
+    "enter_time": "Please enter a time",
+    "success": "Success",
+    "meeting_created": "Meeting created successfully",
+    "meeting_updated": "Meeting updated successfully",
+    "meeting_deleted": "Meeting deleted successfully",
+    "failed_load": "Failed to load meetings",
+    "failed_save": "Failed to save meeting",
+    "failed_delete": "Failed to delete meeting"
+  },
+  "exams_screen": {
+    "title": "Exams",
+    "back": "← Back",
+    "add": "+ Add",
+    "loading": "Loading exams...",
+    "no_exams": "No exams created",
+    "create_first": "Create Your First Exam",
+    "edit_exam": "Edit Exam",
+    "create_exam": "Create Exam",
+    "title_placeholder": "Title *",
+    "description_placeholder": "Description",
+    "date_placeholder": "Date (YYYY-MM-DD) *",
+    "questions": "Questions",
+    "question": "Question",
+    "enter_question": "Enter question",
+    "option": "Option",
+    "correct_answer": "Correct Answer: Option",
+    "not_set": "Not set",
+    "remove": "Remove",
+    "add_question": "+ Add Question",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "delete_exam": "Delete Exam",
+    "delete_confirm": "Are you sure you want to delete",
+    "untitled": "Untitled",
+    "no_description": "No description",
+    "no_date": "No date",
+    "questions_count": "questions",
+    "error": "Error",
+    "enter_title": "Please enter a title",
+    "select_date": "Please select a date",
+    "add_question_error": "Please add at least one question",
+    "enter_question_error": "Please enter question",
+    "min_options_error": "must have at least 2 options",
+    "success": "Success",
+    "exam_created": "Exam created successfully",
+    "exam_updated": "Exam updated successfully",
+    "exam_deleted": "Exam deleted successfully",
+    "failed_load": "Failed to load exams",
+    "failed_save": "Failed to save exam",
+    "failed_delete": "Failed to delete exam"
+  },
+  "common": {
+    "logout": "Logout",
+    "logout_confirm": "Are you sure you want to logout?",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "error": "Error",
+    "success": "Success",
+    "loading": "Loading...",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "← Back",
+    "add": "+ Add",
+    "refresh": "Refresh"
+  },
+  "subjects": {
+    "physics": {
+      "title": "Physics"
+    },
+    "chemistry": {
+      "title": "Chemistry"
+    },
+    "biology": {
+      "title": "Biology"
+    },
+    "math": {
+      "title": "Maths"
+    },
+    "computer": {
+      "title": "Computer"
+    },
+    "chapters": {
+      "select_class": "Select Class",
+      "select_board": "Select Board",
+      "chapters_count": "{{count}} chapters",
+      "topics_count": "{{count}} topics",
+      "no_chapters_available": "No Chapters Available",
+      "chapters_coming_soon": "Chapters for {{class}} - {{board}} are coming soon!",
+      "coming_soon_title": "Coming Soon! 🚀",
+      "coming_soon_message": "{{title}} will be available soon!\n\nCurrently working on this chapter.",
+      "coming_soon": "Coming Soon",
+      "open_chapter": "Open Chapter",
+      "soon": "Soon"
+    },
+    "chapter_screen": {
+      "no_data_available": "No data available",
+      "tabs": {
+        "basic_understanding": "Basic Understanding",
+        "theory": "Theory",
+        "video": "Video",
+        "practical_lab": "Practical Lab",
+        "mcq_challenge": "MCQ Challenge"
+      },
+      "theory_documents": "Theory Documents",
+      "pages_count": "{{count}} pages",
+      "open": "Open",
+      "video_lectures": "Video Lectures",
+      "views_count": "{{count}} views",
+      "watch_now": "Watch Now",
+      "lab_experiments": "Lab Experiments",
+      "no_experiments_available": "No experiments available yet",
+      "start_experiment": "Start Experiment",
+      "your_learning_path": "Your Learning Path",
+      "learn_more": "Learn More",
+      "pro_tip": "Pro Tip",
+      "pro_tip_description": "Start with the basics to build a strong foundation. Each topic unlocks new abilities!",
+      "start_learning_now": "Start Learning Now!",
+      "back": "Back",
+      "level": "Level",
+      "master": "Master",
+      "intermediate_level": "Intermediate Level",
+      "epic_topics_count": "{{count}} Epic Topics",
+      "course_progress": "Course Progress",
+      "complete": "Complete",
+      "difficulty": {
+        "easy": "Easy",
+        "medium": "Medium",
+        "hard": "Hard"
+      }
+    },
+    "pdf_viewer": {
+      "title": "PDF Viewer",
+      "would_open_pdf": "Would open PDF: {{path}}\n\nIn production, integrate with react-native-pdf library to display PDFs.",
+      "no_file_path": "No PDF file path provided",
+      "pdf_document": "PDF Document",
+      "no_file_selected": "No file selected",
+      "open_pdf": "Open PDF",
+      "note": "Note",
+      "note_description": "To display PDFs in React Native, you'll need to install and configure a PDF library such as:",
+      "note_integration": "Then integrate it here to render the PDF document."
+    },
+    "chapters_data": {
+      "difficulty": {
+        "beginner": "Beginner",
+        "intermediate": "Intermediate",
+        "advanced": "Advanced"
+      },
+      "G6MChapter1": {
+        "title": "Knowing Our Numbers",
+        "description": "Large numbers, number names, and place value"
+      },
+      "G6MChapter2": {
+        "title": "Whole Numbers",
+        "description": "Properties, addition, subtraction, multiplication, division"
+      },
+      "G6MChapter3": {
+        "title": "Playing with Numbers",
+        "description": "Factors, multiples, prime, composite numbers"
+      },
+      "G6BChapter1": {
+        "title": "Food: Where Does It Come From?",
+        "description": "Sources of food and their origin"
+      },
+      "G6BChapter2": {
+        "title": "Components of Food",
+        "description": "Nutrients and their functions"
+      },
+      "G6BChapter3": {
+        "title": "Fibre to Fabric",
+        "description": "Plant and animal fibres"
+      },
+      "G7BChapter1": {
+        "title": "Nutrition in Plants",
+        "description": "Photosynthesis and plant nutrition"
+      },
+      "G7BChapter2": {
+        "title": "Nutrition in Animals",
+        "description": "Digestive system and nutrition in animals"
+      },
+      "G7BChapter3": {
+        "title": "Fibre to Fabric",
+        "description": "Wool and silk production"
+      },
+      "G8BChapter1": {
+        "title": "Crop Production and Management",
+        "description": "Agricultural practices and crop management"
+      },
+      "G8BChapter2": {
+        "title": "Microorganisms — Friend and Foe",
+        "description": "Bacteria, fungi, viruses and their roles"
+      },
+      "G9BChapter1": {
+        "title": "Fundamental Unit of Life",
+        "description": "Cell structure and functions"
+      },
+      "G9BChapter2": {
+        "title": "Tissues",
+        "description": "Plant and animal tissues"
+      },
+      "G10BChapter1": {
+        "title": "Life Processes",
+        "description": "Nutrition, respiration, transportation, excretion"
+      },
+      "G10BChapter2": {
+        "title": "Control and Coordination",
+        "description": "Nervous and hormonal systems"
+      },
+      "G11BChapter1": {
+        "title": "The Living World",
+        "description": "Characteristics of living organisms"
+      },
+      "G11BChapter2": {
+        "title": "Biological Classification",
+        "description": "Five kingdom classification system"
+      },
+      "G12BChapter1": {
+        "title": "Reproduction in Organisms",
+        "description": "Asexual and sexual reproduction"
+      },
+      "G12BChapter2": {
+        "title": "Sexual Reproduction in Flowering Plants",
+        "description": "Pollination, fertilization, and seed formation"
+      },
+      "G6PChapter1": {
+        "title": "Motion and Measurement of Distances",
+        "description": "Basics of motion and measurement tools"
+      },
+      "G6PChapter2": {
+        "title": "Light, Shadows and Reflections",
+        "description": "Understanding light and formation of shadows"
+      },
+      "G6PChapter3": {
+        "title": "Electricity and Circuits",
+        "description": "Introduction to circuits and electric components"
+      },
+      "G7PChapter1": {
+        "title": "Heat",
+        "description": "Heat, temperature and heat transfer"
+      },
+      "G8PChapter1": {
+        "title": "Motion and Measurement",
+        "description": "Advanced motion concepts and measurements"
+      },
+      "G8PChapter2": {
+        "title": "Sound: Waves & Vibrations",
+        "description": "Properties of sound waves and vibrations"
+      },
+      "G10PChapter1": {
+        "title": "Mechanics & Motion",
+        "description": "Advanced mechanics and motion principles"
+      },
+      "G6PChapter4": {
+        "title": "Fun with Magnets",
+        "description": "Magnetic materials and magnet properties"
+      },
+      "G7PChapter2": {
+        "title": "Motion and Time",
+        "description": "Speed, motion and time measurement"
+      },
+      "G7PChapter3": {
+        "title": "Electric Current and Its Effects",
+        "description": "Heating and magnetic effects of electric current"
+      },
+      "G7PChapter4": {
+        "title": "Light",
+        "description": "Reflection and basic optical concepts"
+      },
+      "G8PChapter3": {
+        "title": "Friction",
+        "description": "Types and effects of friction"
+      },
+      "G8PChapter4": {
+        "title": "Some Natural Phenomena",
+        "description": "Lightning, earthquakes and safety"
+      },
+      "G8PChapter5": {
+        "title": "Light",
+        "description": "Reflection laws, images and optics"
+      },
+      "G8PChapter6": {
+        "title": "Stars and the Solar System",
+        "description": "Planets, stars, constellations and celestial bodies"
+      },
+      "G6BChapter4": {
+        "title": "Getting to Know Plants",
+        "description": "Types and structure of plants"
+      },
+      "G6BChapter5": {
+        "title": "Body Movements",
+        "description": "Movement in humans and animals"
+      },
+      "G6BChapter6": {
+        "title": "The Living Organisms & Their Surroundings",
+        "description": "Characteristics and habitat of organisms"
+      },
+      "G6BChapter7": {
+        "title": "Garbage In, Garbage Out",
+        "description": "Waste management and recycling"
+      },
+      "G7BChapter4": {
+        "title": "Soil",
+        "description": "Types, properties and profile of soil"
+      },
+      "G7BChapter5": {
+        "title": "Respiration in Organisms",
+        "description": "Respiratory system in plants and animals"
+      },
+      "G7BChapter6": {
+        "title": "Transportation in Animals & Plants",
+        "description": "Transport systems in living beings"
+      },
+      "G7BChapter7": {
+        "title": "Reproduction in Plants",
+        "description": "Modes of plant reproduction"
+      },
+      "G7BChapter8": {
+        "title": "Forests",
+        "description": "Importance and conservation of forests"
+      },
+      "G7BChapter9": {
+        "title": "Wastewater Story",
+        "description": "Wastewater treatment & sanitation"
+      },
+      "G8BChapter3": {
+        "title": "Conservation of Plants & Animals",
+        "description": "Biodiversity conservation"
+      },
+      "G8BChapter4": {
+        "title": "Cell: Structure & Functions",
+        "description": "Basic unit of life"
+      },
+      "G8BChapter5": {
+        "title": "Reproduction in Animals",
+        "description": "Modes of reproduction in animals"
+      },
+      "G8BChapter6": {
+        "title": "Reaching the Age of Adolescence",
+        "description": "Changes during puberty"
+      },
+      "G6MChapter4": {
+        "title": "Basic Geometrical Ideas",
+        "description": "Point, line, line segment, ray, angle, polygon"
+      },
+      "G6MChapter5": {
+        "title": "Understanding Elementary Shapes",
+        "description": "Triangles, quadrilaterals, circles"
+      },
+      "G6MChapter6": {
+        "title": "Integers",
+        "description": "Positive and negative numbers, addition, subtraction"
+      },
+      "G6MChapter7": {
+        "title": "Fractions",
+        "description": "Like/unlike fractions, operations with fractions"
+      },
+      "G6MChapter8": {
+        "title": "Decimals",
+        "description": "Place value, operations with decimals"
+      },
+      "G6MChapter9": {
+        "title": "Data Handling",
+        "description": "Pictographs, bar graphs, tally marks"
+      },
+      "G6MChapter10": {
+        "title": "Mensuration",
+        "description": "Perimeter, area, volume"
+      },
+      "G6MChapter11": {
+        "title": "Algebra",
+        "description": "Simple equations, expressions, patterns"
+      },
+      "G6MChapter12": {
+        "title": "Ratio and Proportion",
+        "description": "Understanding ratios and proportions"
+      },
+      "G6MChapter13": {
+        "title": "Geometry",
+        "description": "Basic constructions, lines, angles"
+      },
+      "G6MChapter14": {
+        "title": "Symmetry",
+        "description": "Line symmetry, rotational symmetry"
+      },
+      "G6MChapter15": {
+        "title": "Practical Geometry",
+        "description": "Constructing triangles, quadrilaterals"
+      },
+      "G6CChapter1": {
+        "title": "Sorting Materials into Groups",
+        "description": "Classification based on properties"
+      },
+      "G6CChapter2": {
+        "title": "Separation of Substances",
+        "description": "Methods like sieving, filtration, evaporation"
+      },
+      "G6CChapter3": {
+        "title": "Changes Around Us",
+        "description": "Physical and chemical changes"
+      },
+      "G6CChapter4": {
+        "title": "Air Around Us",
+        "description": "Composition and properties of air"
+      },
+      "G6CChapter5": {
+        "title": "Water",
+        "description": "Properties, purification and water cycle"
+      },
+      "G6ITChapter1": {
+        "title": "Introduction to Computers",
+        "description": "Basics of computers, history and applications"
+      },
+      "G6ITChapter2": {
+        "title": "Operating System Basics",
+        "description": "Understanding OS, desktop, files and folders"
+      },
+      "G6ITChapter3": {
+        "title": "Input/Output Devices",
+        "description": "Different devices used to interact with computers"
+      },
+      "G6ITChapter4": {
+        "title": "Storage Devices",
+        "description": "Types of storage units and data storage"
+      },
+      "G6ITChapter5": {
+        "title": "Word Processor",
+        "description": "Text editing, formatting and basic functions"
+      },
+      "G6ITChapter6": {
+        "title": "Internet Basics",
+        "description": "Internet, browsers, search engines and safety"
+      },
+      "G6ITChapter7": {
+        "title": "Algorithms & Flowcharts",
+        "description": "Basics of problem solving using flowcharts"
+      },
+      "G6ITChapter8": {
+        "title": "Scratch Programming",
+        "description": "Introduction to block-based coding"
+      }
+    },
+    "code_compiler": {
+      "title": "Code Compiler",
+      "subtitle": "Multi-Language Support",
+      "select_language": "Select Language",
+      "code_editor": "Code Editor",
+      "load_sample": "Load Sample",
+      "code_placeholder": "Write your code here...",
+      "standard_input": "Standard Input (Optional)",
+      "input_placeholder": "Enter input for your program...",
+      "compile_run": "Compile & Run",
+      "clear_all": "Clear All",
+      "output": "Output",
+      "compiling": "Compiling...",
+      "languages": {
+        "python": "Python",
+        "java": "Java",
+        "c": "C",
+        "cpp": "C++"
+      },
+      "errors": {
+        "enter_code": "Please enter code to compile",
+        "error": "Error",
+        "no_output": "No output generated",
+        "network_error": "Network Error",
+        "api_note": "Note: Please add your JDoodle API credentials to use this compiler."
+      }
+    },
+    "chapter_content": {
+      "G6MChapter1": {
+        "chapterTitle": "Knowing Our Numbers",
+        "subjectDescription": "Master numbers and their properties! 🔢",
+        "learningTopics": {
+          "0": {
+            "title": "Reading Large Numbers"
+          },
+          "1": {
+            "title": "Writing Numbers"
+          },
+          "2": {
+            "title": "Comparing Numbers"
+          },
+          "3": {
+            "title": "Place Value System"
+          }
+        },
+        "pdfDocuments": {
+          "0": {
+            "title": "Number System Guide"
+          },
+          "1": {
+            "title": "Place Value Explained"
+          }
+        },
+        "videos": {
+          "0": {
+            "title": "Understanding Large Numbers"
+          },
+          "1": {
+            "title": "Comparing Numbers Made Easy"
+          }
+        },
+        "experiments": {
+          "0": {
+            "title": "Number Comparison Activity",
+            "materials": {
+              "0": "Number Cards",
+              "1": "Worksheet"
+            }
+          }
+        },
+        "achievements": {
+          "0": {
+            "label": "Badges"
+          },
+          "1": {
+            "label": "Day Streak"
+          },
+          "2": {
+            "label": "XP Points"
+          },
+          "3": {
+            "label": "Gems"
+          }
+        }
+      },
+      "G6BChapter1": {
+        "chapterTitle": "Food: Where Does It Come From?",
+        "subjectDescription": "Explore the origins of food and how living beings depend on each other 🌱",
+        "learningTopics": {
+          "0": { "title": "Sources of Food" },
+          "1": { "title": "Plant & Animal Food" },
+          "2": { "title": "Food Variety & Ingredients" },
+          "3": { "title": "Food as Basic Need" }
+        },
+        "pdfDocuments": {
+          "0": { "title": "Sources of Food" },
+          "1": { "title": "Plant & Animal Food" },
+          "2": { "title": "Ingredients & Food Types" }
+        },
+        "videos": {
+          "0": { "title": "Food Sources Explained" },
+          "1": { "title": "Plant vs Animal Food" },
+          "2": { "title": "Food Variety Around Us" }
+        },
+        "experiments": {
+          "0": {
+            "title": "Identify Plant-Based Foods",
+            "materials": {
+              "0": "Vegetables",
+              "1": "Fruits"
+            }
+          },
+          "1": {
+            "title": "Milk Products Study",
+            "materials": {
+              "0": "Milk",
+              "1": "Cheese",
+              "2": "Curd"
+            }
+          },
+          "2": {
+            "title": "Ingredient Hunt Activity",
+            "materials": {
+              "0": "Dishes list",
+              "1": "Notebook"
+            }
+          }
+        },
+        "achievements": {
+          "0": { "label": "Badges" },
+          "1": { "label": "Day Streak" },
+          "2": { "label": "XP Points" },
+          "3": { "label": "Gems" }
+        }
+      },
+      "G6BChapter2": {
+        "chapterTitle": "Components of Food",
+        "subjectDescription": "Learn about nutrients that help us grow and stay healthy 🍎",
+        "learningTopics": {
+          "0": { "title": "Carbohydrates & Fats" },
+          "1": { "title": "Proteins & Vitamins" },
+          "2": { "title": "Balanced Diet" },
+          "3": { "title": "Deficiency Diseases" }
+        },
+        "pdfDocuments": {
+          "0": { "title": "Macronutrients" },
+          "1": { "title": "Vitamins & Minerals" },
+          "2": { "title": "Diet & Health" }
+        },
+        "videos": {
+          "0": { "title": "Nutrients Explained" },
+          "1": { "title": "Balanced Diet Chart" },
+          "2": { "title": "Deficiency Diseases Animation" }
+        },
+        "experiments": {
+          "0": {
+            "title": "Starch Test",
+            "materials": {
+              "0": "Iodine",
+              "1": "Potato"
+            }
+          },
+          "1": {
+            "title": "Fat Test",
+            "materials": {
+              "0": "Paper",
+              "1": "Oil"
+            }
+          },
+          "2": {
+            "title": "Protein Test",
+            "materials": {
+              "0": "Milk",
+              "1": "Copper Sulphate"
+            }
+          }
+        },
+        "achievements": {
+          "0": { "label": "Badges" },
+          "1": { "label": "Day Streak" },
+          "2": { "label": "XP Points" },
+          "3": { "label": "Gems" }
+        }
+      },
+      "G6BChapter3": {
+        "chapterTitle": "Fibre to Fabric",
+        "subjectDescription": "Discover how clothes are made from plant and animal fibres 🧵",
+        "learningTopics": {
+          "0": { "title": "Plant Fibres" },
+          "1": { "title": "Animal Fibres" },
+          "2": { "title": "Yarn to Fabric" },
+          "3": { "title": "Cloth Manufacturing" }
+        },
+        "pdfDocuments": {
+          "0": { "title": "Plant Fibre" },
+          "1": { "title": "Animal Fibre" },
+          "2": { "title": "Weaving & Knitting" }
+        },
+        "videos": {
+          "0": { "title": "How Cotton is Made" },
+          "1": { "title": "Silk Production" },
+          "2": { "title": "Weaving vs Knitting" }
+        },
+        "experiments": {
+          "0": {
+            "title": "Burn Test of Fibres",
+            "materials": {
+              "0": "Cotton",
+              "1": "Wool",
+              "2": "Synthetic Fibres"
+            }
+          },
+          "1": {
+            "title": "Cotton Separation",
+            "materials": {
+              "0": "Cotton Bolls"
+            }
+          },
+          "2": {
+            "title": "Hand Weaving Activity",
+            "materials": {
+              "0": "Thread",
+              "1": "Cardboard Loom"
+            }
+          }
+        },
+        "achievements": {
+          "0": { "label": "Badges" },
+          "1": { "label": "Day Streak" },
+          "2": { "label": "XP Points" },
+          "3": { "label": "Gems" }
+        }
+      },
+      "G6PChapter1": {
+        "chapterTitle": "Physics: Mechanics & Motion",
+        "subjectDescription": "Explore the fundamental principles of motion and mechanics",
+        "learningTopics": {
+          "0": { "title": "Kinematics" },
+          "1": { "title": "Newton's Laws" },
+          "2": { "title": "Work & Energy" },
+          "3": { "title": "Momentum" }
+        },
+        "pdfDocuments": {
+          "0": { "title": "Introduction to Mechanics" },
+          "1": { "title": "Newton's Laws Explained" },
+          "2": { "title": "Energy & Work Principles" },
+          "3": { "title": "Momentum Theory" }
+        },
+        "videos": {
+          "0": { "title": "Understanding Motion" },
+          "1": { "title": "Force and Acceleration" },
+          "2": { "title": "Energy Conservation" },
+          "3": { "title": "Collision Physics" }
+        },
+        "experiments": {
+          "0": {
+            "title": "Newton's Law Lab",
+            "materials": {
+              "0": "String",
+              "1": "Weight",
+              "2": "Ruler"
+            }
+          },
+          "1": {
+            "title": "Friction Force Test",
+            "materials": {
+              "0": "Blocks",
+              "1": "Ramp",
+              "2": "Scale"
+            }
+          },
+          "2": {
+            "title": "Energy Transfer",
+            "materials": {
+              "0": "Springs",
+              "1": "Masses",
+              "2": "Meter"
+            }
+          },
+          "3": {
+            "title": "Momentum Conservation",
+            "materials": {
+              "0": "Cart",
+              "1": "Track",
+              "2": "Sensors"
+            }
+          }
+        },
+        "achievements": {
+          "0": { "label": "Trophies" },
+          "1": { "label": "Day Streak" },
+          "2": { "label": "XP Points" },
+          "3": { "label": "Gems" }
+        }
+      },
+      "G6PChapter2": {
+        "chapterTitle": "Physics: Light, Shadows & Reflections",
+        "subjectDescription": "Understand the nature of light and how shadows and reflections are formed",
+        "learningTopics": {
+          "0": { "title": "Sources of Light" },
+          "1": { "title": "Transparent, Translucent & Opaque" },
+          "2": { "title": "Formation of Shadows" },
+          "3": { "title": "Reflection & Mirrors" }
+        },
+        "pdfDocuments": {
+          "0": { "title": "Understanding Light" },
+          "1": { "title": "Shadows & Their Formation" },
+          "2": { "title": "Reflection & Mirrors Guide" },
+          "3": { "title": "Light Experiments Notes" }
+        },
+        "videos": {
+          "0": { "title": "Sources of Light Explained" },
+          "1": { "title": "How Shadows Form" },
+          "2": { "title": "Reflection & Mirror Tricks" },
+          "3": { "title": "Light Experiments Demo" }
+        },
+        "experiments": {
+          "0": {
+            "title": "Shadow Measurement Lab",
+            "materials": {
+              "0": "Torch",
+              "1": "Objects",
+              "2": "Screen"
+            }
+          },
+          "1": {
+            "title": "Mirror Reflection Test",
+            "materials": {
+              "0": "Mirror",
+              "1": "Laser Pointer",
+              "2": "Screen"
+            }
+          },
+          "2": {
+            "title": "Refraction Demonstration",
+            "materials": {
+              "0": "Glass Prism",
+              "1": "Light Source",
+              "2": "Paper"
+            }
+          },
+          "3": {
+            "title": "Light Intensity Experiment",
+            "materials": {
+              "0": "Bulbs",
+              "1": "Meter",
+              "2": "Lenses"
+            }
+          }
+        },
+        "achievements": {
+          "0": { "label": "Trophies" },
+          "1": { "label": "Day Streak" },
+          "2": { "label": "XP Points" },
+          "3": { "label": "Gems" }
+        }
+      },
+      "G6PChapter3": {
+        "chapterTitle": "Physics: Electricity & Circuit",
+        "subjectDescription": "Learn about electric current, circuits, and electrical components",
+        "learningTopics": {
+          "0": { "title": "Electric Current" },
+          "1": { "title": "Series & Parallel Circuits" },
+          "2": { "title": "Ohm's Law" },
+          "3": { "title": "Electromagnetism" }
+        },
+        "pdfDocuments": {
+          "0": { "title": "Basics of Electricity" },
+          "1": { "title": "Ohm's Law Guide" },
+          "2": { "title": "Series & Parallel Circuits" },
+          "3": { "title": "Electromagnetism Notes" }
+        },
+        "videos": {
+          "0": { "title": "What is Electric Current?" },
+          "1": { "title": "Series vs Parallel Circuit" },
+          "2": { "title": "Understanding Ohm's Law" },
+          "3": { "title": "Electromagnetism Explained" }
+        },
+        "experiments": {
+          "0": {
+            "title": "Simple Circuit Builder",
+            "materials": {
+              "0": "Battery",
+              "1": "Wire",
+              "2": "Bulb"
+            }
+          },
+          "1": {
+            "title": "Series vs Parallel Demo",
+            "materials": {
+              "0": "2 Bulbs",
+              "1": "Battery",
+              "2": "Switch"
+            }
+          },
+          "2": {
+            "title": "Ohm's Law Quick Test",
+            "materials": {
+              "0": "Resistor",
+              "1": "Voltmeter",
+              "2": "Battery"
+            }
+          },
+          "3": {
+            "title": "Breadboard LED Circuit",
+            "materials": {
+              "0": "LED",
+              "1": "Resistor",
+              "2": "Breadboard",
+              "3": "Battery"
+            }
+          }
+        },
+        "achievements": {
+          "0": { "label": "Trophies" },
+          "1": { "label": "Day Streak" },
+          "2": { "label": "XP Points" },
+          "3": { "label": "Gems" }
+        }
+      },
+      "G7BChapter1": {
+        "chapterTitle": "Nutrition in Plants",
+        "subjectDescription": "Understand how plants make and obtain food using sunlight! 🌿",
+        "learningTopics": {
+          "0": { "title": "Photosynthesis" },
+          "1": { "title": "Modes of Nutrition" },
+          "2": { "title": "Saprotrophs" },
+          "3": { "title": "Nutrient Cycle" }
+        },
+        "pdfs": {
+          "0": { "title": "NCERT Notes" }
+        },
+        "experiments": {
+          "0": { "title": "Test for Starch in Leaves" },
+          "1": { "title": "Observe Saprotrophs" }
+        }
+      },
+      "G7BChapter2": {
+        "chapterTitle": "Nutrition in Animals",
+        "subjectDescription": "Explore how different animals eat and digest food! 🐾",
+        "learningTopics": {
+          "0": { "title": "Digestive System in Humans" },
+          "1": { "title": "Feeding in Amoeba" },
+          "2": { "title": "Types of Teeth" },
+          "3": { "title": "Ruminants" }
+        },
+        "pdfs": {
+          "0": { "title": "Digestive System PDF" }
+        },
+        "experiments": {
+          "0": { "title": "Study Food Digestion" }
+        }
+      },
+      "G7BChapter3": {
+        "chapterTitle": "Fibre to Fabric",
+        "subjectDescription": "Discover how fibres turn into the clothes we wear every day! 🧵👕",
+        "learningTopics": {
+          "0": { "title": "Types of Fibres" },
+          "1": { "title": "Natural & Synthetic Fibres" },
+          "2": { "title": "Processing of Wool" },
+          "3": { "title": "Processing of Silk" }
+        },
+        "pdfs": {
+          "0": { "title": "Fibre to Fabric PDF" }
+        },
+        "experiments": {
+          "0": { "title": "Identify Fibre Types Experiment" }
+        }
+      },
+      "G8BChapter1": {
+        "chapterTitle": "Crop Production and Management",
+        "subjectDescription": "Learn how crops are grown, protected, and harvested! 🌾",
+        "learningTopics": {
+          "0": { "title": "Agricultural Practices" },
+          "1": { "title": "Soil Preparation" },
+          "2": { "title": "Sowing & Irrigation" },
+          "3": { "title": "Harvesting & Storage" }
+        },
+        "pdfs": {
+          "0": { "title": "NCERT Notes" }
+        },
+        "experiments": {
+          "0": { "title": "Soil Moisture Test" },
+          "1": { "title": "Seed Germination" }
+        }
+      },
+      "G8BChapter2": {
+        "chapterTitle": "Microorganisms — Friend and Foe",
+        "subjectDescription": "Explore bacteria, fungi, viruses and how they help or harm! 🦠",
+        "learningTopics": {
+          "0": { "title": "Types of Microorganisms" },
+          "1": { "title": "Uses of Microbes" },
+          "2": { "title": "Harmful Microbes" },
+          "3": { "title": "Food Preservation" }
+        },
+        "pdfs": {
+          "0": { "title": "Microorganisms PDF" }
+        },
+        "experiments": {
+          "0": { "title": "Observe Fungi Growth" },
+          "1": { "title": "Microbe Activity Test" }
+        }
+      },
+      "G9BChapter1": {
+        "chapterTitle": "Fundamental Unit of Life",
+        "subjectDescription": "Learn how cells form the basic building blocks of life! 🧬",
+        "learningTopics": {
+          "0": { "title": "Cell Structure" },
+          "1": { "title": "Prokaryotic & Eukaryotic Cells" },
+          "2": { "title": "Cell Organelles" },
+          "3": { "title": "Plasma Membrane & Diffusion" }
+        },
+        "pdfs": {
+          "0": { "title": "NCERT Notes" }
+        },
+        "experiments": {
+          "0": { "title": "Observe Onion Cells" },
+          "1": { "title": "Diffusion & Osmosis" }
+        }
+      },
+      "G9BChapter2": {
+        "chapterTitle": "Tissues",
+        "subjectDescription": "Explore plant and animal tissues and their functions! 🌱🧍",
+        "learningTopics": {
+          "0": { "title": "Plant Tissues" },
+          "1": { "title": "Animal Tissues" },
+          "2": { "title": "Muscular & Nervous Tissues" },
+          "3": { "title": "Connective Tissues" }
+        },
+        "pdfs": {
+          "0": { "title": "Tissues Notes" }
+        },
+        "experiments": {
+          "0": { "title": "Study Plant Tissue Slides" }
+        }
+      },
+      "G10BChapter1": {
+        "chapterTitle": "Life Processes",
+        "subjectDescription": "Understand how living organisms perform vital functions! 🌿🧬",
+        "learningTopics": {
+          "0": { "title": "Nutrition" },
+          "1": { "title": "Respiration" },
+          "2": { "title": "Transportation" },
+          "3": { "title": "Excretion" }
+        },
+        "pdfs": {
+          "0": { "title": "NCERT Notes" }
+        },
+        "experiments": {
+          "0": { "title": "Respiratory Rate Test" }
+        }
+      },
+      "G10BChapter2": {
+        "chapterTitle": "Control and Coordination",
+        "subjectDescription": "Learn how the nervous and hormonal systems work together! 🧠⚡",
+        "learningTopics": {
+          "0": { "title": "Nervous System" },
+          "1": { "title": "Reflex Action" },
+          "2": { "title": "Endocrine System" },
+          "3": { "title": "Plant Movements" }
+        },
+        "pdfs": {
+          "0": { "title": "Hormones & Nervous System PDF" }
+        },
+        "experiments": {
+          "0": { "title": "Neuron Observation" },
+          "1": { "title": "The Human Eye Experiment" },
+          "2": { "title": "The Nervous System Experiment" }
+        }
+      },
+      "G11BChapter1": {
+        "chapterTitle": "The Living World",
+        "subjectDescription": "Explore characteristics of living organisms and how they are identified. 🌱",
+        "learningTopics": {
+          "0": { "title": "What is Life?" },
+          "1": { "title": "Characteristics of Living Organisms" },
+          "2": { "title": "Biodiversity & Taxonomy" },
+          "3": { "title": "Binomial Nomenclature" }
+        },
+        "pdfs": {
+          "0": { "title": "The Living World Notes" }
+        },
+        "experiments": {
+          "0": { "title": "Observation of Living vs Non-Living" }
+        }
+      },
+      "G11BChapter2": {
+        "chapterTitle": "Biological Classification",
+        "subjectDescription": "Understand organization of organisms into five kingdoms. 🧫",
+        "learningTopics": {
+          "0": { "title": "Need for Classification" },
+          "1": { "title": "Five Kingdom System" },
+          "2": { "title": "Monera, Protista, Fungi" },
+          "3": { "title": "Plantae & Animalia" }
+        },
+        "pdfs": {
+          "0": { "title": "Biological Classification Notes" }
+        },
+        "experiments": {
+          "0": { "title": "Microscopic Study of Fungi" }
+        }
+      },
+      "G12BChapter1": {
+        "chapterTitle": "Reproduction in Organisms",
+        "subjectDescription": "Learn why organisms reproduce and explore different reproductive strategies. 🌱",
+        "learningTopics": {
+          "0": { "title": "Asexual Reproduction" },
+          "1": { "title": "Sexual Reproduction" },
+          "2": { "title": "Life Span" },
+          "3": { "title": "Pre-Fertilization Events" }
+        },
+        "pdfs": {
+          "0": { "title": "Reproduction in Organisms Notes" }
+        },
+        "experiments": {
+          "0": { "title": "Study of Asexual Reproduction" }
+        }
+      },
+      "G12BChapter2": {
+        "chapterTitle": "Sexual Reproduction in Flowering Plants",
+        "subjectDescription": "Understand pollination, fertilization, and seed formation in plants. 🌼",
+        "learningTopics": {
+          "0": { "title": "Parts of a Flower" },
+          "1": { "title": "Pollination Types" },
+          "2": { "title": "Double Fertilization" },
+          "3": { "title": "Seed & Fruit Formation" }
+        },
+        "pdfs": {
+          "0": { "title": "Sexual Reproduction in Plants PDF" }
+        },
+        "experiments": {
+          "0": { "title": "Microscopic Study of Pollen Grains" }
+        }
+      },
+      "G7PChapter1": {
+        "chapterTitle": "Physics: Heat & Temperature",
+        "subjectDescription": "Explore heat transfer, temperature, and thermal properties",
+        "learningTopics": {
+          "0": { "title": "Temperature & Thermometers" },
+          "1": { "title": "Heat Transfer" },
+          "2": { "title": "Conduction, Convection & Radiation" },
+          "3": { "title": "Expansion of Solids, Liquids & Gases" }
+        },
+        "pdfDocuments": {
+          "0": { "title": "Introduction to Heat" },
+          "1": { "title": "Heat Transfer Methods" },
+          "2": { "title": "Thermal Expansion Explained" },
+          "3": { "title": "Temperature Measurement" }
+        },
+        "videos": {
+          "0": { "title": "Understanding Heat & Temperature" },
+          "1": { "title": "Heat Transfer in Real Life" },
+          "2": { "title": "Conduction Convection Radiation" },
+          "3": { "title": "Thermal Expansion" }
+        },
+        "experiments": {
+          "0": {
+            "title": "Heat Conductivity Test",
+            "materials": {
+              "0": "Metal Rod",
+              "1": "Wax",
+              "2": "Candle"
+            }
+          },
+          "1": {
+            "title": "Ball & Ring Thermal Expansion Test",
+            "materials": {
+              "0": "Metal Ball",
+              "1": "Ring",
+              "2": "Bunsen Burner"
+            }
+          },
+          "2": {
+            "title": "Hot Air Balloon Convection Demo",
+            "materials": {
+              "0": "Paper",
+              "1": "Heat Source",
+              "2": "Thread"
+            }
+          },
+          "3": {
+            "title": "Radiation Heat Absorption",
+            "materials": {
+              "0": "Black/White Sheets",
+              "1": "Lamp",
+              "2": "Thermometer"
+            }
+          }
+        },
+        "achievements": {
+          "0": { "label": "Trophies" },
+          "1": { "label": "Day Streak" },
+          "2": { "label": "XP Points" },
+          "3": { "label": "Gems" }
+        }
+      },
+      "G8PChapter1": {
+        "chapterTitle": "Physics: Mechanics & Motion",
+        "subjectDescription": "Advanced concepts of motion, force, and mechanics",
+        "learningTopics": {
+          "0": { "title": "Kinematics" },
+          "1": { "title": "Newton's Laws" },
+          "2": { "title": "Work & Energy" },
+          "3": { "title": "Momentum" }
+        },
+        "pdfDocuments": {
+          "0": { "title": "Introduction to Mechanics" },
+          "1": { "title": "Newton's Laws Explained" },
+          "2": { "title": "Energy & Work Principles" },
+          "3": { "title": "Momentum Theory" }
+        },
+        "videos": {
+          "0": { "title": "Understanding Motion" },
+          "1": { "title": "Force and Acceleration" },
+          "2": { "title": "Energy Conservation" },
+          "3": { "title": "Collision Physics" }
+        },
+        "experiments": {
+          "0": {
+            "title": "Pendulum Motion Lab",
+            "materials": {
+              "0": "String",
+              "1": "Weight",
+              "2": "Ruler"
+            }
+          },
+          "1": {
+            "title": "Friction Force Test",
+            "materials": {
+              "0": "Blocks",
+              "1": "Ramp",
+              "2": "Scale"
+            }
+          },
+          "2": {
+            "title": "Energy Transfer",
+            "materials": {
+              "0": "Springs",
+              "1": "Masses",
+              "2": "Meter"
+            }
+          },
+          "3": {
+            "title": "Momentum Conservation",
+            "materials": {
+              "0": "Cart",
+              "1": "Track",
+              "2": "Sensors"
+            }
+          }
+        },
+        "achievements": {
+          "0": { "label": "Trophies" },
+          "1": { "label": "Day Streak" },
+          "2": { "label": "XP Points" },
+          "3": { "label": "Gems" }
+        }
+      },
+      "G8PChapter2": {
+        "chapterTitle": "Sound: Waves & Vibrations",
+        "subjectDescription": "Explore the properties of sound waves and how they propagate",
+        "learningTopics": {
+          "0": { "title": "What is Sound?" },
+          "1": { "title": "Propagation of Sound" },
+          "2": { "title": "Characteristics of Sound" },
+          "3": { "title": "Noise & Music" }
+        },
+        "pdfDocuments": {
+          "0": { "title": "Introduction to Sound Waves" },
+          "1": { "title": "Propagation of Sound Notes" },
+          "2": { "title": "Pitch, Loudness & Quality" },
+          "3": { "title": "Noise vs Music Guide" }
+        },
+        "videos": {
+          "0": { "title": "How Sound Waves Work" },
+          "1": { "title": "Pitch & Loudness Explained" },
+          "2": { "title": "Propagation of Sound in Air" },
+          "3": { "title": "Noise Pollution Awareness" }
+        },
+        "experiments": {
+          "0": {
+            "title": "Sound Vibration Lab",
+            "materials": {
+              "0": "Tuning Fork",
+              "1": "Bowl of Water"
+            }
+          },
+          "1": {
+            "title": "Sound Travels Through Air",
+            "materials": {
+              "0": "Paper Cup",
+              "1": "String"
+            }
+          },
+          "2": {
+            "title": "Pitch & Frequency Test",
+            "materials": {
+              "0": "Rubber Bands",
+              "1": "Box"
+            }
+          },
+          "3": {
+            "title": "Noise Level Measurement",
+            "materials": {
+              "0": "Mobile Decibel Meter"
+            }
+          }
+        },
+        "achievements": {
+          "0": { "label": "Sound Mastery" },
+          "1": { "label": "Day Streak" },
+          "2": { "label": "XP Points" },
+          "3": { "label": "Gems" }
+        }
+      },
+      "G10PChapter1": {
+        "chapterTitle": "Physics: Mechanics & Motion",
+        "subjectDescription": "Advanced mechanics, motion, and energy principles",
+        "learningTopics": {
+          "0": { "title": "Kinematics" },
+          "1": { "title": "Newton's Laws" },
+          "2": { "title": "Work & Energy" },
+          "3": { "title": "Momentum" }
+        },
+        "pdfDocuments": {
+          "0": { "title": "Introduction to Mechanics" },
+          "1": { "title": "Newton's Laws Explained" },
+          "2": { "title": "Energy & Work Principles" },
+          "3": { "title": "Momentum Theory" }
+        },
+        "videos": {
+          "0": { "title": "Understanding Motion" },
+          "1": { "title": "Force and Acceleration" },
+          "2": { "title": "Energy Conservation" },
+          "3": { "title": "Collision Physics" }
+        },
+        "experiments": {
+          "0": {
+            "title": "Pendulum Motion Lab",
+            "materials": {
+              "0": "String",
+              "1": "Weight",
+              "2": "Ruler"
+            }
+          },
+          "1": {
+            "title": "Friction Force Test",
+            "materials": {
+              "0": "Blocks",
+              "1": "Ramp",
+              "2": "Scale"
+            }
+          },
+          "2": {
+            "title": "Energy Transfer",
+            "materials": {
+              "0": "Springs",
+              "1": "Masses",
+              "2": "Meter"
+            }
+          },
+          "3": {
+            "title": "Momentum Conservation",
+            "materials": {
+              "0": "Cart",
+              "1": "Track",
+              "2": "Sensors"
+            }
+          }
+        },
+        "achievements": {
+          "0": { "label": "Trophies" },
+          "1": { "label": "Day Streak" },
+          "2": { "label": "XP Points" },
+          "3": { "label": "Gems" }
+        }
+      }
+    }
+  }
+}
+
